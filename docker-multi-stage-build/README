@@ -1,0 +1,10 @@
+# Multi Stage Build Template
+- `compileStage` stage builds an executable from golang source
+- Final stage runs the executable
+- Base golang image layer removed at a final stage making the resulting image smaller (based on alpine)
+
+## Build image
+`docker build -t go-app .`
+
+## Run the container
+`docker run go-app` 

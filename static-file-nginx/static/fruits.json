@@ -1,0 +1,26 @@
+{
+  "description": "Some fruits.",
+  "fruits": [
+    "apple",
+    "avocado",
+    "banana",
+    "blueberry",
+    "boysenberry",
+    "breadfruit",
+    "cherry",
+    "coconut",
+    "currant",
+    "grape",
+    "guava",
+    "kiwi fruit",
+    "kumquat",
+    "lemon",
+    "nut",
+    "olive",
+    "pear",
+    "raspberry",
+    "strawberry",
+    "tomato",
+    "watermelon"
+  ]
+}
